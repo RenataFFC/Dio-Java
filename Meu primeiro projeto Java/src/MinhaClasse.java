@@ -5,7 +5,7 @@ public class MinhaClasse{
    System.out.print ("Olá"); 
     //declarando variavel
 String  Nome = "Renata Fernandes";
-int Ano = 2022; 
+int Ano = 2023; 
 
 
 //alterando variavel
