@@ -10,7 +10,8 @@ int Ano = 2023;
 
 //alterando variavel
 
-Nome = "Joao Pedro";
+Nome = "Renata";
+   
  }
 
 }
