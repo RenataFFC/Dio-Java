@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
         "src",
-        "Smart-TV/src"
+        "Smart-TV/src",
+        "Exercicios/ListaRepeticao/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
