@@ -9,7 +9,7 @@ public class Ex2 {
         nota = scan.nextInt();
 
             System.out.println("Nota Inválida! Digite Novamente: ");
-            nota = scan.nextInt();
+            nota =scan.nextInt();
         }
     }
 
