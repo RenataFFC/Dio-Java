@@ -22,5 +22,13 @@ public class main {
         Emprestimo.calcular(2000, Emprestimo.getTresParcelas());
         Emprestimo.calcular(2000, 5);
 
+
+ // Quadrilátero
+        System.out.println("Exercício quadrilátero");
+        Quadrilatero.area(3);
+        Quadrilatero.area(5d,5d);
+        Quadrilatero.area(7,8,9);
+
     }
+
 }
