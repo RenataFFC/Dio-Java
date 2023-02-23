@@ -16,7 +16,11 @@ public class main {
         Mensagem.obterMensagem(5);
         Mensagem.obterMensagem(3);
         Mensagem.obterMensagem(21);
-
+// Empréstimo
+        System.out.println("Exercício empréstimo");
+        Emprestimo.calcular(2000, Emprestimo.getDuasParcelas());
+        Emprestimo.calcular(2000, Emprestimo.getTresParcelas());
+        Emprestimo.calcular(2000, 5);
 
     }
 }
