@@ -1,0 +1,133 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayOrdemInversa",
+            "request": "launch",
+            "mainClass": "ArrayOrdemInversa",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch DowPacotes",
+            "request": "launch",
+            "mainClass": "DowPacotes",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2",
+            "request": "launch",
+            "mainClass": "Ex2",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaioreMedia",
+            "request": "launch",
+            "mainClass": "MaioreMedia",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch MesadaSobrinho",
+            "request": "launch",
+            "mainClass": "MesadaSobrinho",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch PareImpar",
+            "request": "launch",
+            "mainClass": "PareImpar",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch consoantes",
+            "request": "launch",
+            "mainClass": "consoantes",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch fatorial",
+            "request": "launch",
+            "mainClass": "fatorial",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
+            "name": "Launch operadorternario",
+            "request": "launch",
+            "mainClass": "operadorternario",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        }
+    ]
+}
