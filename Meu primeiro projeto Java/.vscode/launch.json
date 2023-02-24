@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LojaDoces",
+            "request": "launch",
+            "mainClass": "LojaDoces",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
             "name": "Launch contadorlivro",
             "request": "launch",
             "mainClass": "contadorlivro",
