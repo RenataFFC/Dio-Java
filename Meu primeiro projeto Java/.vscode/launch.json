@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Multa",
+            "request": "launch",
+            "mainClass": "Multa",
+            "projectName": "Meu primeiro projeto Java_5dc47a49"
+        },
+        {
+            "type": "java",
             "name": "Launch LojaDoces",
             "request": "launch",
             "mainClass": "LojaDoces",
