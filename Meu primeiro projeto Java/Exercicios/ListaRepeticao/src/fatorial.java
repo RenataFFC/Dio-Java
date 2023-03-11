@@ -9,16 +9,15 @@ public class fatorial {
         int fatorial = scan.nextInt();
         int multiplicacao = 1;
 
-  System.out.println(fatorial + "! =");
-
+        System.out.println(fatorial + "! =");
 
         for (int i = fatorial; i >= 1; i--) {
 
-multiplicacao = multiplicacao * i;          
+            multiplicacao = multiplicacao * i;
 
         }
 
- System.out.println(multiplicacao);
+        System.out.println(multiplicacao);
 
     }
 }
